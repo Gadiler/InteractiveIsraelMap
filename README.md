@@ -1,1 +1,1 @@
-# InteractiveIsraelMap
+# Interactive Israel Map
